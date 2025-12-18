@@ -4,4 +4,4 @@ In this Repo , i will be  addding resources regarding full stack data career inc
 ## Databases 
 ### MongoDB 
 - youtube playlist :  https://youtu.be/-ijw7mzJLVE?si=ak0eAKr965x1A_T8
-    +aggregtion lessons starts from #71
+(aggregtion lessons starts from #71)
