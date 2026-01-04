@@ -3,6 +3,8 @@ In this Repo , i will be  addding resources regarding full stack data career inc
 ### python 
 ### Regex 
 - youtube / corey schafer https://www.youtube.com/watch?v=K8L6KVGG-7o
+### OOP
+- youtube / corey schafer https://www.youtube.com/watch?v=iLRZi0Gu8Go
 ## Databases 
 ### MongoDB 
 - youtube playlist :  https://youtu.be/-ijw7mzJLVE?si=ak0eAKr965x1A_T8
