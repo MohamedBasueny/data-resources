@@ -1,27 +1,86 @@
-# data-resources
-In this Repo , i will be  addding resources regarding full stack data career including but not limited to (AI , Data-science , ML , DL , Data-Engineering , softwareEngineering)
-## python 
-### Regex 
-- youtube / corey schafer https://www.youtube.com/watch?v=K8L6KVGG-7o
-### OOP
-- youtube / corey schafer https://www.youtube.com/watch?v=iLRZi0Gu8Go
-## Databases 
-### MongoDB 
-- youtube playlist :  https://youtu.be/-ijw7mzJLVE?si=ak0eAKr965x1A_T8
-(aggregtion lessons starts from #71)
-### B-Tree , B+Trees 
-- watch until 40:00 ->  https://www.youtube.com/watch?v=JHZFc4hMGhk
-### data-engineering 
-- designing data intensive application book (Kleppmann)
-#### Replication 
-  - youtube videos(Kleppmann) [Distributed Systems Course] :
-    -   reading ch_5 in  designing data intensive application book
-    -   introduction to Distributed systems ,  https://youtu.be/UEAMfLPZZhE?si=A5VQNj4oCY-u1lNb (1.1)
-    -   computer networking  , https://youtu.be/1F3DEq8ML1U?si=R-u434oFDQSi270F (1.2)
-    -   RPC , https://youtu.be/S2osKiqQG9s?si=RGR1wkZGex_ZSlVg (1.3)
-    -   Replication_5.1 https://youtu.be/mBUCF1WGI_I?si=uItVF7tSSVficDMg
-    -   Replication_5.2 https://youtu.be/uNxl3BFcKSA?si=zjN_fxgckqX_p_ct
-    -   Replication_5.3 https://youtu.be/mlWOQuO55PE?si=KX0jP6tNN8YZ_HsL
-    -   Ch5_book_youtube https://www.youtube.com/watch?v=lYCFreB8w_w&list=PLhgFs9q2EVg_rB-XT1zaJ3k9z0KVGrR2h&index=4
+# Data Resources
 
-      
+A comprehensive collection of learning resources for a full-stack data career, covering AI, Data Science, Machine Learning, Deep Learning, Data Engineering, and Software Engineering.
+
+## Table of Contents
+
+- [Python](#python)
+- [Databases](#databases)
+- [Data Engineering](#data-engineering)
+
+---
+
+## Python
+
+### Core Concepts
+
+#### Regex
+- **Instructor:** Corey Schafer
+- **Resource:** [YouTube Tutorial](https://www.youtube.com/watch?v=K8L6KVGG-7o)
+
+#### Object-Oriented Programming (OOP)
+- **Instructor:** Corey Schafer
+- **Resource:** [YouTube Tutorial](https://www.youtube.com/watch?v=iLRZi0Gu8Go)
+
+---
+
+## Databases
+
+### MongoDB
+
+**MongoDB Fundamentals**
+- **Format:** YouTube Playlist
+- **Link:** [Complete MongoDB Playlist](https://youtu.be/-ijw7mzJLVE?si=ak0eAKr965x1A_T8)
+- **Note:** Aggregation lessons start from lesson #71
+
+### Tree Data Structures
+
+#### B-Tree & B+Trees
+- **Duration:** Watch until 40:00 mark
+- **Link:** [YouTube Tutorial](https://www.youtube.com/watch?v=JHZFc4hMGhk)
+
+---
+
+## Data Engineering
+
+### Designing Data-Intensive Applications
+
+**Primary Resource:** "Designing Data-Intensive Applications" by Martin Kleppmann (Book)
+
+#### Database Replication
+
+A comprehensive distributed systems course covering replication concepts:
+
+**Required Reading**
+- Chapter 5 from "Designing Data-Intensive Applications"
+
+**Video Lectures**
+
+1. **Introduction to Distributed Systems** (1.1)
+   - [Watch](https://youtu.be/UEAMfLPZZhE?si=A5VQNj4oCY-u1lNb)
+
+2. **Computer Networking Fundamentals** (1.2)
+   - [Watch](https://youtu.be/1F3DEq8ML1U?si=R-u434oFDQSi270F)
+
+3. **Remote Procedure Call (RPC)** (1.3)
+   - [Watch](https://youtu.be/S2osKiqQG9s?si=RGR1wkZGex_ZSlVg)
+
+4. **Replication Part 1** (5.1)
+   - [Watch](https://youtu.be/mBUCF1WGI_I?si=uItVF7tSSVficDMg)
+
+5. **Replication Part 2** (5.2)
+   - [Watch](https://youtu.be/uNxl3BFcKSA?si=zjN_fxgckqX_p_ct)
+
+6. **Replication Part 3** (5.3)
+   - [Watch](https://youtu.be/mlWOQuO55PE?si=KX0jP6tNN8YZ_HsL)
+
+7. **Chapter 5 Complete Playlist**
+   - [Watch Full Series](https://www.youtube.com/watch?v=lYCFreB8w_w&list=PLhgFs9q2EVg_rB-XT1zaJ3k9z0KVGrR2h&index=4)
+
+---
+
+## Notes
+
+- All YouTube links are sourced from the Kleppmann Distributed Systems Course
+- Videos are recommended to be watched in sequential order for optimal learning progression
+- The book chapters should be read alongside the corresponding video lectures
