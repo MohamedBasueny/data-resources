@@ -78,6 +78,17 @@ A comprehensive distributed systems course covering replication concepts:
    - [Watch Full Series](https://www.youtube.com/watch?v=lYCFreB8w_w&list=PLhgFs9q2EVg_rB-XT1zaJ3k9z0KVGrR2h&index=4)
 
 ---
+#### Database Sharding/Partitioning
+
+Sharding concepts:
+
+**Required Reading**
+- Chapter 6 from "Designing Data-Intensive Applications"
+
+**Video Lectures**
+
+1. **Database Sharding! Designing Data-Intensive Applications chapter 6** 
+   - [Watch](https://www.youtube.com/live/iR07_nnzvQg?si=guHNqQuXs--Qodqd)
 
 ## Notes
 
