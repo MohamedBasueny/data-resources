@@ -10,6 +10,15 @@ A comprehensive collection of learning resources for a full-stack data career, c
 
 ---
 
+## Mathematics for AI
+### Probablity:
+- **Steve Brunton:** [YouTube Tutorial](https://www.youtube.com/watch?v=sQqniayndb4&list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V)
+### Statistics:
+- **Steve Brunton:** [YouTube Tutorial](https://www.youtube.com/watch?v=QIXUTsdj_oA&list=PLMrJAkhIeNNT14qn1c5qdL29A1UaHamjx)
+- **Stat quest:**  [YouTube Tutorial](https://www.youtube.com/watch?v=FgakZw6K1QQ&list=TLPQMTgwMjIwMjb2w7cCbFAiaQ&index=1&pp=iAQBsAgC)
+
+---
+
 ## Python
 
 ### Core Concepts
