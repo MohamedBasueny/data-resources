@@ -7,7 +7,11 @@ A comprehensive collection of learning resources for a full-stack data career, c
 - [Python](#python)
 - [Databases](#databases)
 - [Data Engineering](#data-engineering)
+---
 
+##  AI Algorithms 
+### ML
+- **(PCA) - Computerphile** [YouTube Tutorial](https://youtu.be/TJdH6rPA-TI?si=F1LjIXi8LJOnV5QG)
 ---
 
 ## Mathematics for AI
