@@ -12,6 +12,7 @@ A comprehensive collection of learning resources for a full-stack data career, c
 ##  AI Algorithms 
 ### ML
 - **(PCA) - Computerphile** [YouTube Tutorial](https://youtu.be/TJdH6rPA-TI?si=F1LjIXi8LJOnV5QG)
+- **Decision Trees Statquest** [YouTube Tutorial](https://youtu.be/_L39rN6gz7Y?si=ERYVqExg9B0E6i3r)
 ---
 
 ## Mathematics for AI
